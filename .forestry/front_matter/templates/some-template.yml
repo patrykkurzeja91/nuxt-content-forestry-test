@@ -17,3 +17,5 @@ fields:
 - type: list
   name: features
   label: features
+pages:
+- content/en/aaa.md
