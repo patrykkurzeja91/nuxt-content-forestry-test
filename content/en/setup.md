@@ -9,23 +9,27 @@ Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossa
 
 ## Installation
 
+yarn add @nuxtjs/xxx
+
+Whaaat?
+
 Add `@nuxtjs/xxx` dependency to your project:
 
 <code-group>
-  <code-block label="Yarn" active>
+<code-block label="Yarn" active>
 
-  ```bash
-  yarn add @nuxtjs/xxx
-  ```
+```bash
+yarn add @nuxtjs/xxx
+```
 
-  </code-block>
-  <code-block label="NPM">
+</code-block>
+<code-block label="NPM">
 
-  ```bash
-  npm install @nuxtjs/xxx
-  ```
+```bash
+npm install @nuxtjs/xxx
+```
 
-  </code-block>
+</code-block>
 </code-group>
 
 Then, add `@nuxtjs/xxx` to the `modules` section of `nuxt.config.js`:
