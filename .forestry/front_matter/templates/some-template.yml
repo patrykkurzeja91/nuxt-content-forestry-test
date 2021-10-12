@@ -19,4 +19,5 @@ fields:
   label: features
 pages:
 - content/en/aaa.md
+- content/en/new-setting.md
 - content/en/qwe.md
